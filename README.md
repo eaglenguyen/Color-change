@@ -2,7 +2,7 @@
 
 ## Preface
 One of the first apps created at the beginning of the coding journey. <br>
-Relatively easy app that implements onClicklistener and RandomInt via Kotlin/Android Studio.
+Relatively easy app that implements onClicklistener and Random.Int via Kotlin/Android Studio.
 
 ## About
 
