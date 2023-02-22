@@ -1,8 +1,8 @@
 # Button Color Change
 
 ## Preface
-One of the first apps created at the beginning of the coding journey. <br>
-Relatively easy app that implements onClicklistener via Kotlin/Android Studio.
+One of the first apps that I have built in Kotlin. <br>
+Relatively easy app that implements onClicklistener on a button that changes the color of a square.
 
 ## About
 
